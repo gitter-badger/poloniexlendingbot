@@ -1,5 +1,7 @@
 #Poloniex lending bot
 
+[![Join the chat at https://gitter.im/rnevet/poloniexlendingbot](https://badges.gitter.im/rnevet/poloniexlendingbot.svg)](https://gitter.im/rnevet/poloniexlendingbot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Poloniex lending bot is written in Python for automatic lending on Poloniex exchange.
 It will lend automatically all cryptocurrencies found in your lending account.
 
